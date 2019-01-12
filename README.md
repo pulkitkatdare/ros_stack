@@ -1,5 +1,8 @@
 # ros_stack
 MP files for ECE 498 **principles of safe autonomy**
+![Example Image](assets/001.png)
+
+> Instructions to complete individual Machine Problems will be in the individual MP [README](src/mp0/README.md) files
 
 ## Run the code
 Complete the following steps
@@ -30,7 +33,7 @@ catkin_make
 ./run.sh
 ```
 ### End Simulation 
-7. End simulation
+1. End simulation
 ```
 ./kill.sh
 ```
