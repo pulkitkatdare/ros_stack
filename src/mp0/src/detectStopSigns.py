@@ -36,7 +36,9 @@ import time
 
 def Stop_sign_detection(targetImage):
 	prototypeImg = cv2.imread('/home/katdare2/Desktop/catkin_ws/src/mp0/src/stopPrototype.png')
-
+	'''
+	COMPLETE CODE HERE
+	'''
 
 	stop_sign_detect = False
 
