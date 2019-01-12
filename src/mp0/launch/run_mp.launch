@@ -1,0 +1,5 @@
+<launch>
+  <node name="vehicle_control_example" pkg="mp0" type="vehicle_control_example.py" output="screen" />
+<node name="rqt_image_view" pkg="rqt_image_view" type="rqt_image_view" respawn="false" output="screen">
+</node>
+</launch>
